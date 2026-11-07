@@ -1,0 +1,151 @@
+comment_id,post_id,comment_date,comment_text,sentiment_label
+C001,P013,2026-10-05,Keep it up,neutral
+C002,P043,2026-10-03,Same situation every single day,relatable
+C003,P019,2026-10-02,Interesting content,neutral
+C004,P029,2026-09-05,This feels like my own story,relatable
+C005,P006,2026-09-29,Literally me and my friends,relatable
+C006,P021,2026-09-16,Finally someone said it,relatable
+C007,P005,2026-09-28,This is too real,relatable
+C008,P008,2026-10-12,Literally me and my friends,relatable
+C009,P018,2026-09-26,Good one,neutral
+C010,P005,2026-09-26,Finally someone said it,relatable
+C011,P030,2026-09-14,"So true, my college life is the same",relatable
+C012,P002,2026-09-24,Literally me and my friends,relatable
+C013,P037,2026-09-10,This is exactly what happens to me 😂,relatable
+C014,P018,2026-09-05,I can relate to this so much,relatable
+C015,P047,2026-09-24,This is too real,relatable
+C016,P033,2026-09-20,I can relate to this so much,relatable
+C017,P044,2026-09-01,Thanks for sharing,neutral
+C018,P037,2026-09-23,This is too real,relatable
+C019,P008,2026-10-14,Useful post,neutral
+C020,P009,2026-10-14,Good information,neutral
+C021,P013,2026-10-18,Can you share the link?,unrelated
+C022,P009,2026-09-06,When will you upload next?,unrelated
+C023,P022,2026-09-25,Please check my page,unrelated
+C024,P036,2026-10-15,Literally me and my friends,relatable
+C025,P013,2026-09-18,Literally me and my friends,relatable
+C026,P010,2026-09-17,This is too real,relatable
+C027,P008,2026-10-04,Literally me and my friends,relatable
+C028,P018,2026-10-12,I can relate to this so much,relatable
+C029,P041,2026-09-26,This is too real,relatable
+C030,P003,2026-09-22,Interesting content,neutral
+C031,P031,2026-10-13,Interesting content,neutral
+C032,P035,2026-09-21,Keep it up,neutral
+C033,P009,2026-09-19,Literally me and my friends,relatable
+C034,P026,2026-09-26,Nice video,neutral
+C035,P034,2026-09-05,Interesting content,neutral
+C036,P008,2026-09-10,Literally me and my friends,relatable
+C037,P002,2026-09-29,Same situation every single day,relatable
+C038,P044,2026-09-24,Interesting content,neutral
+C039,P035,2026-10-06,Literally me and my friends,relatable
+C040,P020,2026-10-18,This feels like my own story,relatable
+C041,P028,2026-09-14,This is too real,relatable
+C042,P049,2026-09-03,Can you make a tutorial?,unrelated
+C043,P022,2026-10-18,This is too real,relatable
+C044,P004,2026-09-18,Same situation every single day,relatable
+C045,P050,2026-09-30,What phone do you use?,unrelated
+C046,P029,2026-10-13,This feels like my own story,relatable
+C047,P010,2026-10-02,Nice video,neutral
+C048,P018,2026-10-09,"So true, my college life is the same",relatable
+C049,P040,2026-09-29,Keep it up,neutral
+C050,P005,2026-09-10,This is too real,relatable
+C051,P027,2026-09-07,Well explained,neutral
+C052,P023,2026-09-14,"So true, my college life is the same",relatable
+C053,P047,2026-09-13,When will you upload next?,unrelated
+C054,P038,2026-10-21,Same situation every single day,relatable
+C055,P003,2026-09-13,Same situation every single day,relatable
+C056,P034,2026-09-01,Literally me and my friends,relatable
+C057,P033,2026-09-09,Can you share the link?,unrelated
+C058,P008,2026-09-08,What phone do you use?,unrelated
+C059,P037,2026-10-16,"So true, my college life is the same",relatable
+C060,P026,2026-10-19,When will you upload next?,unrelated
+C061,P008,2026-09-19,Nice video,neutral
+C062,P020,2026-09-19,Can you make a tutorial?,unrelated
+C063,P025,2026-10-12,Finally someone said it,relatable
+C064,P046,2026-10-19,Literally me and my friends,relatable
+C065,P016,2026-09-20,Good one,neutral
+C066,P031,2026-09-16,Can you make a tutorial?,unrelated
+C067,P039,2026-09-11,This is too real,relatable
+C068,P013,2026-09-18,This is exactly what happens to me 😂,relatable
+C069,P013,2026-09-22,Nice video,neutral
+C070,P034,2026-09-17,This is exactly what happens to me 😂,relatable
+C071,P025,2026-09-09,Well explained,neutral
+C072,P043,2026-10-17,Keep it up,neutral
+C073,P030,2026-10-10,Well explained,neutral
+C074,P004,2026-09-30,Well explained,neutral
+C075,P043,2026-09-02,Literally me and my friends,relatable
+C076,P003,2026-09-25,This is exactly what happens to me 😂,relatable
+C077,P015,2026-09-01,Finally someone said it,relatable
+C078,P026,2026-09-07,I can relate to this so much,relatable
+C079,P043,2026-10-21,This is too real,relatable
+C080,P047,2026-09-14,This feels like my own story,relatable
+C081,P009,2026-10-19,When will you upload next?,unrelated
+C082,P032,2026-09-20,Same situation every single day,relatable
+C083,P034,2026-09-03,This is exactly what happens to me 😂,relatable
+C084,P046,2026-10-16,This is exactly what happens to me 😂,relatable
+C085,P032,2026-09-19,Useful post,neutral
+C086,P040,2026-09-19,Good information,neutral
+C087,P031,2026-09-16,I can relate to this so much,relatable
+C088,P048,2026-09-05,Good one,neutral
+C089,P049,2026-10-01,"So true, my college life is the same",relatable
+C090,P004,2026-10-14,Can you share the link?,unrelated
+C091,P023,2026-09-25,I can relate to this so much,relatable
+C092,P036,2026-10-21,Interesting content,neutral
+C093,P046,2026-10-05,Please reply to my message,unrelated
+C094,P049,2026-09-12,Nice video,neutral
+C095,P038,2026-09-07,This is exactly what happens to me 😂,relatable
+C096,P046,2026-09-11,I can relate to this so much,relatable
+C097,P019,2026-10-04,Interesting content,neutral
+C098,P047,2026-10-15,Thanks for sharing,neutral
+C099,P004,2026-10-06,Same situation every single day,relatable
+C100,P008,2026-10-09,Good information,neutral
+C101,P020,2026-09-12,I can relate to this so much,relatable
+C102,P032,2026-09-28,This is too real,relatable
+C103,P011,2026-09-23,Thanks for sharing,neutral
+C104,P012,2026-10-13,Nice video,neutral
+C105,P021,2026-09-03,I can relate to this so much,relatable
+C106,P041,2026-09-11,Finally someone said it,relatable
+C107,P013,2026-09-21,I can relate to this so much,relatable
+C108,P038,2026-09-22,Keep it up,neutral
+C109,P045,2026-09-25,Where was this recorded?,unrelated
+C110,P020,2026-09-19,This feels like my own story,relatable
+C111,P028,2026-10-21,I can relate to this so much,relatable
+C112,P010,2026-10-16,Nice video,neutral
+C113,P034,2026-09-28,I can relate to this so much,relatable
+C114,P029,2026-10-02,Same situation every single day,relatable
+C115,P006,2026-09-27,Finally someone said it,relatable
+C116,P001,2026-09-20,When will you upload next?,unrelated
+C117,P033,2026-10-09,Good one,neutral
+C118,P046,2026-10-10,Literally me and my friends,relatable
+C119,P044,2026-09-12,Interesting content,neutral
+C120,P036,2026-10-14,Well explained,neutral
+C121,P012,2026-09-04,Good one,neutral
+C122,P046,2026-10-03,Same situation every single day,relatable
+C123,P042,2026-10-15,Useful post,neutral
+C124,P015,2026-09-24,Good information,neutral
+C125,P030,2026-10-19,Same situation every single day,relatable
+C126,P029,2026-09-21,"So true, my college life is the same",relatable
+C127,P029,2026-09-23,This is exactly what happens to me 😂,relatable
+C128,P023,2026-10-02,Nice video,neutral
+C129,P024,2026-09-23,Keep it up,neutral
+C130,P004,2026-09-06,Can you share the link?,unrelated
+C131,P015,2026-09-18,Same situation every single day,relatable
+C132,P035,2026-09-13,I can relate to this so much,relatable
+C133,P019,2026-09-18,"So true, my college life is the same",relatable
+C134,P010,2026-09-23,What phone do you use?,unrelated
+C135,P040,2026-09-27,Where was this recorded?,unrelated
+C136,P024,2026-10-07,Keep it up,neutral
+C137,P027,2026-10-13,Interesting content,neutral
+C138,P004,2026-09-02,This feels like my own story,relatable
+C139,P013,2026-09-16,Literally me and my friends,relatable
+C140,P005,2026-10-14,Well explained,neutral
+C141,P035,2026-09-18,I can relate to this so much,relatable
+C142,P047,2026-09-15,Same situation every single day,relatable
+C143,P034,2026-09-01,Well explained,neutral
+C144,P026,2026-09-06,Useful post,neutral
+C145,P007,2026-09-26,Finally someone said it,relatable
+C146,P022,2026-10-17,Finally someone said it,relatable
+C147,P007,2026-09-17,This feels like my own story,relatable
+C148,P050,2026-10-17,"So true, my college life is the same",relatable
+C149,P010,2026-09-02,Same situation every single day,relatable
+C150,P008,2026-09-06,I can relate to this so much,relatable

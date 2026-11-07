@@ -1,0 +1,51 @@
+post_id,post_date,topic,format,hook_type,caption_style,posting_hour,views,likes,shares,saves,comments,retention_rate,follower_change
+P001,2026-09-01,Comedy,Reel,Unexpected Visual,Story,12,5372,510,96,97,11,50.5,-2
+P002,2026-09-03,Technology,Reel,Story Opening,Story,22,23781,1826,187,300,236,18.5,46
+P003,2026-09-05,Gaming,Image,Bold Statement,Story,17,4149,140,21,72,32,80.1,9
+P004,2026-09-07,Comedy,Carousel,Question,Funny,13,21399,1792,470,265,187,21.5,10
+P005,2026-09-09,Comedy,Short,Question,Call to Action,13,15657,1337,173,136,52,38.6,1
+P006,2026-09-11,Friendship,Short,Bold Statement,Call to Action,18,9645,1148,165,116,82,82.9,6
+P007,2026-09-13,Education,Image,Problem-Solution,Informative,8,7713,862,119,115,26,56.4,21
+P008,2026-09-15,Friendship,Image,Bold Statement,Story,20,18461,922,293,335,100,34.9,57
+P009,2026-09-17,Food,Reel,Question,Question,9,21360,859,384,272,112,63.9,8
+P010,2026-09-19,Education,Reel,Story Opening,Informative,22,11946,425,150,121,137,85.4,8
+P011,2026-09-21,Friendship,Reel,Unexpected Visual,Funny,21,7317,289,145,86,70,58.8,2
+P012,2026-09-23,Food,Reel,Question,Informative,13,8646,264,193,165,17,55.4,9
+P013,2026-09-25,Friendship,Short,Problem-Solution,Funny,9,9485,713,155,184,106,76.2,11
+P014,2026-09-27,Motivation,Image,Problem-Solution,Funny,19,4765,231,21,11,34,63.3,-7
+P015,2026-09-29,Technology,Reel,Question,Informative,8,17647,840,313,103,43,90.0,22
+P016,2026-10-01,Technology,Carousel,Problem-Solution,Story,8,3976,348,43,37,42,22.2,-5
+P017,2026-10-03,Education,Carousel,Unexpected Visual,Question,12,7078,305,91,68,29,37.2,20
+P018,2026-10-05,Comedy,Reel,Story Opening,Question,8,8545,349,117,50,46,22.5,4
+P019,2026-10-07,Lifestyle,Carousel,Unexpected Visual,Call to Action,20,22488,2097,144,165,262,62.6,39
+P020,2026-10-09,Gaming,Reel,Question,Funny,19,17277,1941,254,52,114,83.6,-6
+P021,2026-10-11,Technology,Carousel,Question,Funny,12,19770,1611,329,189,147,58.3,18
+P022,2026-10-13,Gaming,Short,Unexpected Visual,Call to Action,9,22809,1969,298,427,258,18.7,4
+P023,2026-10-15,Comedy,Short,Story Opening,Informative,9,12236,1330,273,106,33,82.2,31
+P024,2026-10-17,Education,Image,Question,Story,13,4582,502,89,22,19,34.2,0
+P025,2026-10-19,Food,Image,Question,Question,22,14679,1524,58,117,36,93.4,6
+P026,2026-10-21,Motivation,Reel,Question,Question,9,18677,531,208,223,107,21.2,-6
+P027,2026-10-23,Gaming,Short,Bold Statement,Question,17,19146,2087,229,252,52,89.6,14
+P028,2026-10-25,Motivation,Reel,Bold Statement,Informative,18,22751,2436,474,155,220,26.3,52
+P029,2026-10-27,Technology,Short,Problem-Solution,Informative,13,8257,381,145,76,34,23.3,14
+P030,2026-10-29,Motivation,Image,Question,Question,13,6651,533,164,18,50,44.6,5
+P031,2026-10-31,Comedy,Carousel,Story Opening,Story,13,2254,208,7,42,16,73.4,-2
+P032,2026-11-02,Gaming,Carousel,Question,Informative,21,11086,976,64,202,73,69.4,14
+P033,2026-11-04,Lifestyle,Short,Bold Statement,Call to Action,22,13223,1181,302,173,57,60.2,1
+P034,2026-11-06,Technology,Carousel,Story Opening,Funny,22,11359,786,145,66,70,87.4,2
+P035,2026-11-08,Comedy,Image,Story Opening,Funny,17,3860,397,75,54,13,33.3,-1
+P036,2026-11-10,Food,Reel,Problem-Solution,Call to Action,22,19663,855,360,214,72,68.5,-5
+P037,2026-11-12,Motivation,Short,Bold Statement,Funny,19,2445,191,57,10,6,53.8,9
+P038,2026-11-14,Gaming,Carousel,Story Opening,Funny,18,18752,1263,122,328,112,75.9,27
+P039,2026-11-16,Food,Short,Unexpected Visual,Call to Action,8,24181,1261,217,188,168,28.7,1
+P040,2026-11-18,Technology,Reel,Problem-Solution,Call to Action,17,18580,1287,81,316,98,77.3,-6
+P041,2026-11-20,Motivation,Carousel,Question,Informative,13,13579,1440,326,130,125,60.1,6
+P042,2026-11-22,Food,Short,Unexpected Visual,Call to Action,19,1751,108,31,29,16,82.7,9
+P043,2026-11-24,Education,Carousel,Story Opening,Funny,22,1688,56,21,30,5,38.0,6
+P044,2026-11-26,Gaming,Image,Problem-Solution,Informative,18,9066,946,121,140,14,91.3,-6
+P045,2026-11-28,Education,Reel,Bold Statement,Story,7,21159,835,122,297,152,34.8,39
+P046,2026-11-30,Friendship,Reel,Bold Statement,Informative,8,19762,542,195,280,228,48.5,1
+P047,2026-12-02,Technology,Reel,Unexpected Visual,Funny,8,19344,1922,206,188,98,57.0,18
+P048,2026-12-04,Food,Reel,Problem-Solution,Informative,22,15864,1463,200,241,184,38.8,26
+P049,2026-12-06,Food,Carousel,Problem-Solution,Funny,13,11361,1203,242,40,122,36.8,16
+P050,2026-12-08,Gaming,Reel,Problem-Solution,Informative,9,16776,757,345,136,179,72.0,-8

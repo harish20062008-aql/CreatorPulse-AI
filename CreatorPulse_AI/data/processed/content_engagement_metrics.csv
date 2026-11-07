@@ -1,0 +1,51 @@
+post_id,post_date,topic,format,hook_type,caption_style,posting_hour,views,likes,shares,saves,comments,retention_rate,follower_change,total_interactions,engagement_rate,engagement_rank
+P006,2026-09-11,Friendship,Short,Bold Statement,Call to Action,18,9645.0,1148.0,165.0,116.0,82.0,82.9,6,1511.0,15.67,1
+P041,2026-11-20,Motivation,Carousel,Question,Informative,13,13579.0,1440.0,326.0,130.0,125.0,60.1,6,2021.0,14.88,2
+P007,2026-09-13,Education,Image,Problem-Solution,Informative,8,7713.0,862.0,119.0,115.0,26.0,56.4,21,1122.0,14.55,3
+P028,2026-10-25,Motivation,Reel,Bold Statement,Informative,18,22751.0,2436.0,474.0,155.0,220.0,26.3,52,3285.0,14.44,4
+P023,2026-10-15,Comedy,Short,Story Opening,Informative,9,12236.0,1330.0,273.0,106.0,33.0,82.2,31,1742.0,14.24,5
+P049,2026-12-06,Food,Carousel,Problem-Solution,Funny,13,11361.0,1203.0,242.0,40.0,122.0,36.8,16,1607.0,14.14,6
+P035,2026-11-08,Comedy,Image,Story Opening,Funny,17,3860.0,397.0,75.0,54.0,13.0,33.3,-1,539.0,13.96,7
+P024,2026-10-17,Education,Image,Question,Story,13,4582.0,502.0,89.0,22.0,19.0,34.2,0,632.0,13.79,8
+P027,2026-10-23,Gaming,Short,Bold Statement,Question,17,19146.0,2087.0,229.0,252.0,52.0,89.6,14,2620.0,13.68,9
+P020,2026-10-09,Gaming,Reel,Question,Funny,19,17277.0,1941.0,254.0,52.0,114.0,83.6,-6,2361.0,13.67,10
+P044,2026-11-26,Gaming,Image,Problem-Solution,Informative,18,9066.0,946.0,121.0,140.0,14.0,91.3,-6,1221.0,13.47,11
+P001,2026-09-01,Comedy,Reel,Unexpected Visual,Story,12,5372.0,510.0,96.0,97.0,11.0,50.5,-2,714.0,13.29,12
+P048,2026-12-04,Food,Reel,Problem-Solution,Informative,22,15864.0,1463.0,200.0,241.0,184.0,38.8,26,2088.0,13.16,13
+P033,2026-11-04,Lifestyle,Short,Bold Statement,Call to Action,22,13223.0,1181.0,302.0,173.0,57.0,60.2,1,1713.0,12.95,14
+P022,2026-10-13,Gaming,Short,Unexpected Visual,Call to Action,9,22809.0,1969.0,298.0,427.0,258.0,18.7,4,2952.0,12.94,15
+P004,2026-09-07,Comedy,Carousel,Question,Funny,13,21399.0,1792.0,470.0,265.0,187.0,21.5,10,2714.0,12.68,16
+P047,2026-12-02,Technology,Reel,Unexpected Visual,Funny,8,19344.0,1922.0,206.0,188.0,98.0,57.0,18,2414.0,12.48,17
+P013,2026-09-25,Friendship,Short,Problem-Solution,Funny,9,9485.0,713.0,155.0,184.0,106.0,76.2,11,1158.0,12.21,18
+P031,2026-10-31,Comedy,Carousel,Story Opening,Story,13,2254.0,208.0,7.0,42.0,16.0,73.4,-2,273.0,12.11,19
+P032,2026-11-02,Gaming,Carousel,Question,Informative,21,11086.0,976.0,64.0,202.0,73.0,69.4,14,1315.0,11.86,20
+P019,2026-10-07,Lifestyle,Carousel,Unexpected Visual,Call to Action,20,22488.0,2097.0,144.0,165.0,262.0,62.6,39,2668.0,11.86,20
+P025,2026-10-19,Food,Image,Question,Question,22,14679.0,1524.0,58.0,117.0,36.0,93.4,6,1735.0,11.82,22
+P016,2026-10-01,Technology,Carousel,Problem-Solution,Story,8,3976.0,348.0,43.0,37.0,42.0,22.2,-5,470.0,11.82,22
+P021,2026-10-11,Technology,Carousel,Question,Funny,12,19770.0,1611.0,329.0,189.0,147.0,58.3,18,2276.0,11.51,24
+P030,2026-10-29,Motivation,Image,Question,Question,13,6651.0,533.0,164.0,18.0,50.0,44.6,5,765.0,11.5,25
+P005,2026-09-09,Comedy,Short,Question,Call to Action,13,15657.0,1337.0,173.0,136.0,52.0,38.6,1,1698.0,10.84,26
+P037,2026-11-12,Motivation,Short,Bold Statement,Funny,19,2445.0,191.0,57.0,10.0,6.0,53.8,9,264.0,10.8,27
+P002,2026-09-03,Technology,Reel,Story Opening,Story,22,23781.0,1826.0,187.0,300.0,236.0,18.5,46,2549.0,10.72,28
+P042,2026-11-22,Food,Short,Unexpected Visual,Call to Action,19,1751.0,108.0,31.0,29.0,16.0,82.7,9,184.0,10.51,29
+P038,2026-11-14,Gaming,Carousel,Story Opening,Funny,18,18752.0,1263.0,122.0,328.0,112.0,75.9,27,1825.0,9.73,30
+P040,2026-11-18,Technology,Reel,Problem-Solution,Call to Action,17,18580.0,1287.0,81.0,316.0,98.0,77.3,-6,1782.0,9.59,31
+P034,2026-11-06,Technology,Carousel,Story Opening,Funny,22,11359.0,786.0,145.0,66.0,70.0,87.4,2,1067.0,9.39,32
+P008,2026-09-15,Friendship,Image,Bold Statement,Story,20,18461.0,922.0,293.0,335.0,100.0,34.9,57,1650.0,8.94,33
+P050,2026-12-08,Gaming,Reel,Problem-Solution,Informative,9,16776.0,757.0,345.0,136.0,179.0,72.0,-8,1417.0,8.45,34
+P011,2026-09-21,Friendship,Reel,Unexpected Visual,Funny,21,7317.0,289.0,145.0,86.0,70.0,58.8,2,590.0,8.06,35
+P029,2026-10-27,Technology,Short,Problem-Solution,Informative,13,8257.0,381.0,145.0,76.0,34.0,23.3,14,636.0,7.7,36
+P036,2026-11-10,Food,Reel,Problem-Solution,Call to Action,22,19663.0,855.0,360.0,214.0,72.0,68.5,-5,1501.0,7.63,37
+P009,2026-09-17,Food,Reel,Question,Question,9,21360.0,859.0,384.0,272.0,112.0,63.9,8,1627.0,7.62,38
+P039,2026-11-16,Food,Short,Unexpected Visual,Call to Action,8,24181.0,1261.0,217.0,188.0,168.0,28.7,1,1834.0,7.58,39
+P012,2026-09-23,Food,Reel,Question,Informative,13,8646.0,264.0,193.0,165.0,17.0,55.4,9,639.0,7.39,40
+P015,2026-09-29,Technology,Reel,Question,Informative,8,17647.0,840.0,313.0,103.0,43.0,90.0,22,1299.0,7.36,41
+P010,2026-09-19,Education,Reel,Story Opening,Informative,22,11946.0,425.0,150.0,121.0,137.0,85.4,8,833.0,6.97,42
+P017,2026-10-03,Education,Carousel,Unexpected Visual,Question,12,7078.0,305.0,91.0,68.0,29.0,37.2,20,493.0,6.97,42
+P045,2026-11-28,Education,Reel,Bold Statement,Story,7,21159.0,835.0,122.0,297.0,152.0,34.8,39,1406.0,6.64,44
+P043,2026-11-24,Education,Carousel,Story Opening,Funny,22,1688.0,56.0,21.0,30.0,5.0,38.0,6,112.0,6.64,44
+P018,2026-10-05,Comedy,Reel,Story Opening,Question,8,8545.0,349.0,117.0,50.0,46.0,22.5,4,562.0,6.58,46
+P003,2026-09-05,Gaming,Image,Bold Statement,Story,17,4149.0,140.0,21.0,72.0,32.0,80.1,9,265.0,6.39,47
+P046,2026-11-30,Friendship,Reel,Bold Statement,Informative,8,19762.0,542.0,195.0,280.0,228.0,48.5,1,1245.0,6.3,48
+P014,2026-09-27,Motivation,Image,Problem-Solution,Funny,19,4765.0,231.0,21.0,11.0,34.0,63.3,-7,297.0,6.23,49
+P026,2026-10-21,Motivation,Reel,Question,Question,9,18677.0,531.0,208.0,223.0,107.0,21.2,-6,1069.0,5.72,50
